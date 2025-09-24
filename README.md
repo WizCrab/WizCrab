@@ -9,3 +9,9 @@
 <div align="center">
   <img width="600px" src="https://github-readme-stats.vercel.app/api?username=WizCrab&show_icons=true&theme=gruvbox" alt='WizCrab' />
 </div>
+<br>
+<p align="center">
+  <a href="https://crates.io/users/WizCrab">
+    <img src="https://custom-icon-badges.demolab.com/badge/-|%20|%20|%20|%20|%20|%20|-636363?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-🦀%20🦀%20🦀%20==========%20>-FFC2BA?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-WIZ%20CRAB%20CRATES%20IO-FFC2BA?style=for-the-badge&logo=package&logoColor=black"><img src="https://custom-icon-badges.demolab.com/badge/-<%20==========%20🦀%20🦀%20🦀-FFC2BA?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-|%20|%20|%20|%20|%20|%20|-636363?style=for-the-badge">
+  </a>
+</p>
