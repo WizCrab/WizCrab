@@ -6,4 +6,6 @@
 
 <img src='beach/beach.svg' width='1000'/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WizCrab&theme=codestackr)](https://git.io/streak-stats)
+<div align="center">
+  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=WizCrab&show_icons=true&theme=gruvbox" alt='WizCrab' />
+</div>
