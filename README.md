@@ -5,3 +5,5 @@
 </h1>
 
 <img src='beach/beach.svg' width='1000'/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WizCrab&theme=codestackr)](https://git.io/streak-stats)
