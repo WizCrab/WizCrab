@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://crates.io/users/WizCrab">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+!+👋;Time+for+some+Rust+!;Wiz+Wiz+⭐;Zero+Cost+Enjoyer+:D;Crab+Crab+🦀&center=true&size=30&color=ff5050">
   </a>
 </p>
