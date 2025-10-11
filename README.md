@@ -18,8 +18,8 @@
 <!-- Diagrams -->
 <div align="center">
   <!-- GitHub Stats -->
-  <img width="550px" src="https://github-readme-stats.vercel.app/api?username=WizCrab&show_icons=true&theme=calm_pink" alt='WizCrab' />
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=WizCrab&show_icons=true&theme=calm_pink" alt='WizCrab' />
   <!-- Languages Used -->
-  <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WizCrab&layout=donut&theme=calm_pink" alt='WizCrab' />
+  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WizCrab&layout=donut&theme=calm_pink" alt='WizCrab' />
 </div>
 <br><br>
