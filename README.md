@@ -8,7 +8,7 @@
 <!-- crates.io link -->
 <p align="center">
   <a href="https://crates.io/users/WizCrab">
-    <img src="https://custom-icon-badges.demolab.com/badge/->             >             >             >             >-FF976E?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-WIZ%20CRAB%20CRATES%20IO-FF976E?style=for-the-badge&logo=package&logoColor=black"><img src="https://custom-icon-badges.demolab.com/badge/-<              <              <              <              <-FF976E?style=for-the-badge">
+    <img src="https://custom-icon-badges.demolab.com/badge/->               >               >               >-FF976E?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-WIZ%20CRAB%20CRATES%20IO-FF976E?style=for-the-badge&logo=package&logoColor=black"><img src="https://custom-icon-badges.demolab.com/badge/-<                <                <                <-FF976E?style=for-the-badge">
   </a>
 </p>
 
