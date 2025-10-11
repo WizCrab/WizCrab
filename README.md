@@ -15,8 +15,11 @@
 <!-- Beach SVG -->
 <img src='beach/beach.svg' width='1000'/>
 
-<!-- GitHub Stats -->
+<!-- Diagrams -->
 <div align="center">
-  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=WizCrab&show_icons=true&theme=gruvbox" alt='WizCrab' />
+  <!-- GitHub Stats -->
+  <img width="550px" src="https://github-readme-stats.vercel.app/api?username=WizCrab&show_icons=true&theme=calm_pink" alt='WizCrab' />
+  <!-- Languages Used -->
+  <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WizCrab&layout=donut&theme=calm_pink" alt='WizCrab' />
 </div>
 <br><br>
