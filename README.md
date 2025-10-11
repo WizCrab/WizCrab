@@ -35,8 +35,8 @@
 <details open> 
   <summary><h2>CLI Dev Series</h2></summary>
   <p align="center">
-    <a href="https://github.com/WizCrab/grid-math"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WizCrab&repo=grid-math&show_icons=false&theme=calm_pink" alt="grid-math"></a>
-    <a href="https://github.com/WizCrab/cli-tilemap"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WizCrab&repo=cli-tilemap&show_icons=false&theme=calm_pink" alt="cli-tilemap"></a>
-    <a href="https://github.com/WizCrab/conduit-cli-game"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WizCrab&repo=conduit-cli-game&show_icons=false&theme=calm_pink" alt="conduit-cli-game"></a>
+    <a href="https://github.com/WizCrab/grid-math"><img width="274" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WizCrab&repo=grid-math&show_icons=false&theme=calm_pink" alt="grid-math"></a>
+    <a href="https://github.com/WizCrab/cli-tilemap"><img width="274" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WizCrab&repo=cli-tilemap&show_icons=false&theme=calm_pink" alt="cli-tilemap"></a>
+    <a href="https://github.com/WizCrab/conduit-cli-game"><img width="274" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WizCrab&repo=conduit-cli-game&show_icons=false&theme=calm_pink" alt="conduit-cli-game"></a>
   </p>
 </details>
