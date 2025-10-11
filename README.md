@@ -27,7 +27,7 @@
 <!-- All Repos Link -->
 <p align="center">
   <a href="https://github.com/WizCrab?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-↓                    ↓                    ↓                    ↓-333745?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-HERE%20ARE%20ALL%20MY%20CRATES-333745?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-↓                    ↓                    ↓                    ↓-333745?style=for-the-badge">
+    <img src="https://custom-icon-badges.demolab.com/badge/-↓                   ↓                   ↓                   ↓-333745?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-HERE%20ARE%20ALL%20MY%20CRATES-333745?style=for-the-badge"><img src="https://custom-icon-badges.demolab.com/badge/-↓                   ↓                   ↓                   ↓-333745?style=for-the-badge">
   </a>
 </p>
 
